@@ -251,7 +251,7 @@ class _LoginScreenState extends State<LoginScreen> {
                                   ),
                                   TextButton(
                                     onPressed: () async {
-                                      Get.to(() => const RegisterScreen());
+                                      Get.offAll(() => const RegisterScreen());
                                     },
                                     child: Text(
                                       'Sign Up',

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:intl_phone_field/intl_phone_field.dart';
 import 'package:shopee_app/Controller/authentication_controller.dart';
 import 'package:shopee_app/View/Mobile-Files/login_screen.dart';
 
